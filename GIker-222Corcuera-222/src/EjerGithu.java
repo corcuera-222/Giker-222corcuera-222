@@ -24,6 +24,7 @@ public class EjerGithu
 				numeroComas=1.78F;
 				numeroDouble=17.89D;
 				caracter='?';
+				nombre="iker";
 				bo=false;
 				//visualizar valores
 				System.out.print("los valores de las variables son los siguientes:");
