@@ -15,6 +15,7 @@ public class EjerGithu
 				double numeroDouble;
 				char caracter;
 				boolean bo;
+				String nombre;
 				// asignacion
 				numero=3;
 				numeroShort=200;
