@@ -34,7 +34,7 @@ public class EjerGithu
 				System.out.print("los valores de las variables son los siguientes:");
 				System.out.print("\n"+numero+"\n"+numeroShort+"\n"+numeroEntero+"\n"+numeroLargo+"\n"+numeroComas+"\n"+numeroDouble+"\n"+caracter+"\n"+bo);
 				System.out.print("tercer cambio realizado:");		
-			
+				System.out.print("cambio del usuario invitado:");	
 				
 				
 				
